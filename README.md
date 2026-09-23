@@ -167,6 +167,7 @@ This README is a dated snapshot of **640 unique public GitHub repositories**. St
 | [aiavatarkit](https://github.com/uezo/aiavatarkit) | ★ 678 | Python | 2026-09-22 | Conversational-avatar framework with a Jev gate that judges whether a speaker has finished a turn. |
 | [smithers](https://github.com/smithersai/smithers) | ★ 417 | TypeScript | 2026-09-19 | Agentic TypeScript workflow framework with a Jev session checker wired into its workflows. |
 | [pg-jev](https://github.com/realZachi/pg-jev) | ★ 224 | Python | 2026-09-19 | Ask your Postgres tables questions in plain language. A PostgreSQL extension powered by TypeSafe's Jev. |
+| [jevhttp](https://github.com/XUEHANGAI/jevhttp) | ★ 0 | Python | 2026-09-23 | Local-model-first synchronous HTTP and crawling toolkit that extracts web page state and uses Jev for structured classification and relevance decisions. |
 | [skillbox](https://github.com/kitze/skillbox) | ★ 200 | TypeScript | 2026-09-19 | Self-hosted, versioned skills library for AI agents with optional Jev recommendations through TypeSafe or an AI gateway. |
 | [NeuroLink](https://github.com/juspay/neurolink) | ★ 134 | TypeScript | 2026-09-21 | Unified AI SDK whose TypeSafe decide API supplies typed judgments for model routing, compaction, tools, and retrieval planning. |
 | [pg_typesafe](https://github.com/giuliosmall/pg_typesafe) | ★ 79 | C | 2026-09-19 | Pre-alpha PostgreSQL extension for TypeSafe AI (Jev) categorical classification. |
